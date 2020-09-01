@@ -7,7 +7,7 @@
 > **So that** I am greeted by the app in response
 
 ## Fast guide:
-> IDE require lombok plugin to be installed
+> IDE require **lombok** plugin to be installed
 
 ### Package structure:
 **main** <br/>
