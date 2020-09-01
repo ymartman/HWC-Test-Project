@@ -10,12 +10,12 @@
 > IDE require lombok plugin to be installed
 
 ### Package structure:
-**main
-com.libertex.qa.challenge.api - mvc like parts to describe and work with tested application
-com.libertex.qa.challenge.config - part to provide an easy way to custom configure project
-com.libertex.qa.challenge.logic - a shortcuts to use application functional
-com.libertex.qa.core.reporting - minimum reporting sugar
-com.libertex.qa.core.api - base to work with Rest services
-**test
-com.libertex.qa.hello - asked tests
-com.libertex.qa.other - adds to test service interface
+**main** <br/>
+**com.libertex.qa.challenge.api** - mvc like parts to describe and work with tested application <br/>
+**com.libertex.qa.challenge.config** - part to provide an easy way to custom configure project <br/>
+**com.libertex.qa.challenge.logic** - a shortcuts to use application functional <br/>
+**com.libertex.qa.core.reporting** - minimum reporting sugar <br/>
+**com.libertex.qa.core.api** - base to work with Rest services <br/>
+**test** <br/>
+**com.libertex.qa.hello** - asked tests <br/>
+**com.libertex.qa.other** - adds to test service interface <br/>
